@@ -1,4 +1,4 @@
-# Excel-Bike-Project
+# Excel Bike Project
 This is my first Excel project done in Data Analysis Field. This project, customer bike purchasing trend is based on :
 * Customer AVERAGE Income 
 * Customer AGE Groupe 
